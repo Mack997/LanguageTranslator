@@ -1,7 +1,7 @@
-android-google-cloud-translate
-Example Android app using google-cloud-translate
+Languge Translator
+
+This Application uses Google Cloud Translate API.
 
 NOTES:
 
-Before testing the app, replace MainActivity.API_KEY with your actual Translate API Key.
-This is by no means a real world application. I strongly discourage you from saving your API_KEY in plain sight.
+Before testing the app, replace API_KEY with your actual Translate API Key
