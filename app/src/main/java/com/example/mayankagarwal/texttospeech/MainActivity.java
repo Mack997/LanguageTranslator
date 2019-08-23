@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
 
     public class GoogleTranslate extends AsyncTask<String, Void, String> {
 
-        private final String API_KEY = "AIzaSyAazeQmo8s87l2jTuLvccTCbep4M5o1hM8";
+        private final String API_KEY = "Your_API_KEY";
 
 
         @Override
